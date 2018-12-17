@@ -6,7 +6,6 @@ media_library:
   name: uploadcare
   config:
     publicKey: 6f098158430210631382
-public_folder: "img"
 
 collections: # A list of collections the CMS should be able to edit
   - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
