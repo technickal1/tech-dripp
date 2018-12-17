@@ -6,6 +6,7 @@ description: >-
   it's about. Think of Siri (the virtual assistant of the iPhone) and imagine it
   takes a physical dimension in the shape of a cylinder along with a Bluetooth
   speaker.
+image: 'https://ucarecdn.com/68ea01ed-87ec-4a93-80e3-4af63b1b4eaf/'
 ---
 Welcome to [Alexa](http://amzn.to/2jeIwTV), your personal assistant. 
 
