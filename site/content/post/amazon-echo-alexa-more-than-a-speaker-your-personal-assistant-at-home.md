@@ -1,5 +1,5 @@
 ---
-title: 'Amazon Echo & Alexa: More Than A Speaker, Your Personal Assistant at Home'
+title: 'Amazon Echo & Alexa: More Than A Speaker, Your Shopping Assistant at Home'
 date: 2017-11-11T20:35:23.893Z
 description: >-
   Amazon Echo, or Alexa, for friends ... it's not that simple to explain what
