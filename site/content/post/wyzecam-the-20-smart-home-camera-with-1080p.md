@@ -5,6 +5,7 @@ description: >-
   With the new smart home camera craze, many companies are coming out with their
   own models, features, or other bells and whistles. A new camera on the market,
   the WyzeCam, hopes to make smart technology crazy affordable.
+image: 'https://ucarecdn.com/f13bc4c4-8b26-49f9-bce6-fed31c966ceb/'
 ---
 For anyone that uses smart home devices, you might know how expensive it can become (once the addiction begins) to start adding to your smart home setup. 
 
