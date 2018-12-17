@@ -12,11 +12,11 @@ I recently came across a way to use team drives in my version of Chrome OS! This
 
 #### Quick and Easy Directions
 
-#### Head to **chrome://flags**
+1. Head to **chrome://flags**
+2. Look for **Enable Team Drives Integration **option and     choose **Enabled (**default should be disabled)
+3. Restart Chrome in order for the changes to take effect. 
 
-#### Look for **Enable Team Drives Integration **option and choose **Enabled (**default should be disabled)
-
-#### Restart Chrome in order for the changes to take effect. *Remember that chrome flags are experimental!
+*Remember that chrome flags are experimental!
 
 #### \------
 
