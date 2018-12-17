@@ -3,9 +3,9 @@ title: 'Amazon Echo & Alexa: More Than A Speaker, Your Shopping Assistant at Hom
 date: 2017-11-11T20:35:23.893Z
 description: >-
   Amazon Echo, or Alexa, for friends ... it's not that simple to explain what
-  it's about. Think of [Siri](https://www.cnet.com/tags/siri/) (the virtual
-  assistant of the iPhone) and imagine that it takes a physical dimension and
-  chooses a cylinder that is a bluetooth speaker.
+  it's about. Think of Siri (the virtual assistant of the iPhone) and imagine it
+  takes a physical dimension in the shape of a cylinder along with a Bluetooth
+  speaker.
 ---
 Welcome to [Alexa](http://amzn.to/2jeIwTV), your personal assistant. 
 
