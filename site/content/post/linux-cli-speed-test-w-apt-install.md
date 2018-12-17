@@ -1,6 +1,6 @@
 ---
 title: Linux CLI speed test w/apt install
-date: 2018-12-17T17:26:28.630Z
+date: 2018-10-24T14:30:28.630Z
 description: >-
   Sometimes when you need a quick speed test, using command line can be the
   fastest.
