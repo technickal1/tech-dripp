@@ -1,6 +1,6 @@
 ---
 title: 'The Future of Smart Homes: How They Connect with Your Life'
-date: 2018-12-17T21:16:32.780Z
+date: 2017-10-17T20:33:32.780Z
 description: >-
   Welcome to the first article on the Tech Dripp website! It's going to be a
   long journey, but excited to get things started.
