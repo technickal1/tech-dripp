@@ -7,7 +7,7 @@ media_library:
   config:
     publicKey: 6f098158430210631382
     
-logo_url: https://techdripp.netlify.com/site/static/techdripp.png
+logo_url: https://techdripp.netlify.com/img/techdripp.png
 
 collections: # A list of collections the CMS should be able to edit
   - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
