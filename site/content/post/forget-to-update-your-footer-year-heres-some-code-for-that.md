@@ -5,7 +5,11 @@ description: >-
   Recently on the site I noticed our footer wasn't updated with the current year
   (2018).
 ---
-From personal experience, if I land on a page with an outdated year, there's a good chance that I feel it might be outdated. And of course I don't want to feel outdated! It's a simple fix that should be implemented. Here's a simple script to update your footer with some javascript code that will make your footer dynamic instead of static!
+From personal experience, if I land on a page with an outdated year, there's a good chance that I feel it might be outdated. And of course I don't want to feel outdated! 
+
+It's a simple fix that should definitely be implemented. 
+
+Here's a simple script to update your footer with some javascript code that will make your footer dynamic instead of static!
 
     <script type="text/javascript">
       document.write(new Date().getFullYear());
