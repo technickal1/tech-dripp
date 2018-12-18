@@ -7,7 +7,7 @@ media_library:
   config:
     publicKey: 6f098158430210631382
     
-logo_url: https://techdripp.netlify.com/img/techdripp.png
+logo_url: https://techdripp.netlify.com/img/logo.svg
 publish_mode: editorial_workflow
 display_url: https://techdripp.com
 
