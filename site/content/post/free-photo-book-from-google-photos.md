@@ -5,9 +5,10 @@ description: >-
   Google has a huge push right now with making people aware of their services.
   Two of those services are being promoted with the fun little game -- Google Fi
   (cell service) and a Google Photo Book.
+image: 'https://ucarecdn.com/7e1c8a62-4337-4470-9a58-d6986146375f/'
 ---
-So, right now if you're a Google Fi customer you can get a free photo book. They're taking the initiative to promote Google photos and how easy it is to get the tangible photos in your hand. Kind of seems like a catch-22 doesn't it?
+Right now if you're a Google Fi customer you can get a free photo book. A nice perk for those who haven't quite experienced the service enough to compare.
+
+They're taking the initiative to promote Google photos and also how easy it is to create the tangible photos. Interesting how the intertwining of digital + physical is coming together.
 
 Head over to [fiholiday.withgoogle.com](https://fiholiday.withgoogle.com/) and play the fun game. I've even included a GIF to show it! Sped up a bit, but fun nonetheless.
-
-![finosaur google fi game](https://ucarecdn.com/49e4b04c-4f28-4e5c-9c71-61a7c92f469d/ "The Finosaur of Google")
