@@ -1,8 +1,8 @@
-# TechDripp website (made from Hugo template from Netlify CMS)
+# techdripp website (made from Hugo template from Netlify CMS)
 
 This is a small business template built with [Victor Hugo](https://github.com/netlify/victor-hugo) and [Netlify CMS](https://github.com/netlify/netlify-cms), designed and developed by [Darin Dimitroff](http://www.darindimitroff.com/), [spacefarm.digital](https://www.spacefarm.digital).
 
-The TechDripp site was setup and now running the CMS with:
+The techdripp site was setup and now running the CMS with:
 
 * A new repository with the code
 * Full Continuous Deployment to Netlify's global CDN network
